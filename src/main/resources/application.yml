@@ -1,0 +1,12 @@
+server:
+  port: 9999
+spring:
+  data:
+    mongodb:
+      host: 192.168.72.130
+      port: 27017
+      username: root
+      password: root
+      database: users
+  profiles:
+    active: prod
