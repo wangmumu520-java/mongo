@@ -1,6 +1,6 @@
-server:
-  port: 7777
-spring:
-  data:
-    mongodb:
-      uri: mongodb://admin:111111@192.168.72.130/users
+#server:
+#  port: 7777
+#spring:
+#  data:
+#    mongodb:
+#      uri: mongodb://admin:111111@192.168.72.130/demo

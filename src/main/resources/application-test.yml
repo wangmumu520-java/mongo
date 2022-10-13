@@ -1,7 +1,7 @@
-server:
-  port: 8888
-# mongodb(协议)://121.5.167.13(主机):27017(端口)/users(库名)
-spring:
-  data:
-    mongodb:
-      uri: mongodb://192.168.72.130:27017/users
+#server:
+#  port: 8888
+## mongodb(协议)://121.5.167.13(主机):27017(端口)/users(库名)
+#spring:
+#  data:
+#    mongodb:
+#      uri: mongodb://192.168.72.130:27017/demo

@@ -3,10 +3,11 @@ server:
 spring:
   data:
     mongodb:
-      host: 192.168.72.130
-      port: 27017
-      username: root
-      password: root
-      database: users
-  profiles:
-    active: prod
+      uri: mongodb://192.168.72.130:27017/demo
+#      host: 192.168.72.130
+#      port: 27017
+#      username: root
+#      password: root
+#      database: demo
+#  profiles:
+#    active: test
